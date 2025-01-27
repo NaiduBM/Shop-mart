@@ -41,7 +41,7 @@ npm start
 ```
 4.**Open the app in your browser:**
   ```bash
-http://localhost:3000
+http://localhost:5174
 ```
 ## Deployment
 The project can be deployed to GitHub Pages. Follow these steps to deploy:
